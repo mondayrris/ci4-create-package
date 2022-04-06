@@ -1,6 +1,5 @@
 {
     "name": "myapp/settings",
-    "type": "composer-plugin",
     "license": "MIT",
     "authors": [
         {

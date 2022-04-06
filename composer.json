@@ -13,7 +13,8 @@
     ],
     "require": {
         "php": "^7.3 || ^8.0",
-        "codeigniter4/framework": "^4"
+        "codeigniter4/framework": "^4",
+        "myapp/settings": "dev-main"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9",
