@@ -4,6 +4,12 @@
     "description": "CodeIgniter4 starter app",
     "homepage": "https://codeigniter.com",
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "path",
+            "url": "app/ThirdParty/myapp-settings"
+        }
+    ],
     "require": {
         "php": "^7.3 || ^8.0",
         "codeigniter4/framework": "^4"
